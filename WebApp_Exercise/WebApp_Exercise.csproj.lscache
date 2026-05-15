@@ -62,6 +62,7 @@ Controllers/
  Op01Controller.cs
  Op02Controller.cs
  Op03Controller.cs
+ RazorSyntaxSampleController.cs
  RouteSampleController.cs
  TypeConversioinErrorController.cs
 Models/ErrorViewModel.cs
@@ -415,11 +416,12 @@ obj/Debug/net8.0/WebApp_Exercise.GeneratedMSBuildEditorConfig.editorconfig
 Views/Home/
  Index.cshtml
  Privacy.cshtml
-Views/Shared/
- Error.cshtml
- _Layout.cshtml
- _ValidationScriptsPartial.cshtml
 Views/
+ RazorSyntaxSample/Show.cshtml
+ Shared/
+  Error.cshtml
+  _Layout.cshtml
+  _ValidationScriptsPartial.cshtml
  _ViewImports.cshtml
  _ViewStart.cshtml
 
@@ -427,10 +429,11 @@ Views/
 Views/Home/
  Index.cshtml
  Privacy.cshtml
-Views/Shared/
- Error.cshtml
- _Layout.cshtml
- _ValidationScriptsPartial.cshtml
 Views/
+ RazorSyntaxSample/Show.cshtml
+ Shared/
+  Error.cshtml
+  _Layout.cshtml
+  _ValidationScriptsPartial.cshtml
  _ViewImports.cshtml
  _ViewStart.cshtml
