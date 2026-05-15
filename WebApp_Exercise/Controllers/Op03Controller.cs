@@ -5,8 +5,6 @@ using WebApp_Exercise.Views;
 
 public class Op03Controller : Controller
 {
-    
-    public Opt03Form result { get; set; }
 
     [HttpPost("Calc")]
     public IActionResult inputData(Opt03Form calc)
